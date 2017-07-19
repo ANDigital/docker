@@ -7,4 +7,4 @@
 
 [![dockeri.co](http://dockeri.co/image/andigital/rancher-compose)](https://hub.docker.com/r/andigital/rancher-compose/)
 
-`latest`, `0.12.5` [https://github.com/ANDigital/docker/tree/master/rancher/rancher-compose] (Dockerfile)
+`latest`, `0.12.5` [Dockerfile](https://github.com/ANDigital/docker/tree/master/rancher/rancher-compose)
