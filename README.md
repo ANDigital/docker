@@ -13,4 +13,4 @@
 
 [![dockeri.co](http://dockeri.co/image/andigital/aws-cli)](https://hub.docker.com/r/andigital/aws-cli/)
 
-`latest`, [Dockerfile](https://github.com/ANDigital/docker/tree/master/aws/aws-cli)
+`latest`, `1.11.131` [Dockerfile](https://github.com/ANDigital/docker/tree/master/aws/aws-cli)
